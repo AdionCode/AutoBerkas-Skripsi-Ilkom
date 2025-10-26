@@ -26,7 +26,7 @@ Sebuah *tool* berbasis Excel VBA untuk membantu mahasiswa dalam proses pemberkas
 4.  **Pilih Template**: Arahkan ke *folder* tempat kalian menyimpan semua *template* `.docx` yang ingin diproses.
 5.  **Pilih File**: Pilih satu atau beberapa file `.docx` sekaligus. (Tahan tombol `Ctrl` sambil mengklik untuk memilih banyak file).
 6.  **Proses**: Klik `"OK"` dan tunggu beberapa saat hingga muncul notifikasi `"BERHASIL!"`.
-7.  **Selesai**: Cek file baru kalian di dalam *folder* `"Hasil"` (pastikan ada folder HASIL).
+7.  **Selesai**: Cek file baru kalian di dalam *folder* `"Hasil"` (pastikan ada folder `"Hasil"`).
 
 ## Catatan Penting
 
