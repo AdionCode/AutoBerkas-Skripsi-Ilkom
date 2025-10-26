@@ -20,21 +20,21 @@ Sebuah *tool* berbasis Excel VBA untuk membantu mahasiswa dalam proses pemberkas
 
 ## Panduan Penggunaan
 
-1.  **Buka File Excel**: Buka file utama `(nama_file_anda.xlsm)`.
-2.  **Input Data**: Buka *sheet* `"Input"` dan isi atau ganti data sesuai dengan data Anda.
+1.  **Buka File Excel**: Buka file utama `(Otomatisasi.xlsm)`.
+2.  **Input Data**: Buka *sheet* `"Input"` dan isi atau ganti data sesuai dengan data kalian.
 3.  **Mulai Generate**: Klik tombol `"Generate WORD"` atau `"Generate PDF"` pada *sheet* `Input`.
-4.  **Pilih Template**: Arahkan ke *folder* tempat Anda menyimpan semua *template* `.docx` yang ingin diproses.
+4.  **Pilih Template**: Arahkan ke *folder* tempat kalian menyimpan semua *template* `.docx` yang ingin diproses.
 5.  **Pilih File**: Pilih satu atau beberapa file `.docx` sekaligus. (Tahan tombol `Ctrl` sambil mengklik untuk memilih banyak file).
 6.  **Proses**: Klik `"OK"` dan tunggu beberapa saat hingga muncul notifikasi `"BERHASIL!"`.
-7.  **Selesai**: Cek file baru Anda di dalam *folder* `"Hasil"` (folder ini akan otomatis dibuat di lokasi yang sama dengan file Excel Anda).
+7.  **Selesai**: Cek file baru kalian di dalam *folder* `"Hasil"` (folder ini akan otomatis dibuat di lokasi yang sama dengan file Excel kalian).
 
 ## Catatan Penting
 
 * ⚠️ **Just to be safe...**: Sangat disarankan untuk menutup semua aplikasi Microsoft Word yang sedang terbuka sebelum menjalankan proses *generate* untuk menghindari konflik.
-* ⏳ **Waktu Proses**: Proses *generate* mungkin akan memakan waktu sedikit lebih lama jika Anda memilih banyak file sekaligus. Harap bersabar.
+* ⏳ **Waktu Proses**: Proses *generate* mungkin akan memakan waktu sedikit lebih lama jika kalian memilih banyak file sekaligus. Harap bersabar.
 * 🚫 **Kompatibilitas**: *Tool* ini **hanya berfungsi** di lingkungan Windows dengan Microsoft Office yang terinstal.
-* 🔧 **As-Is**: Tool ini bersifat "as-is" (apa adanya) dan tidak ada jaminan. *May or may not work* tergantung kondisi komputer dan file template Anda.
-* ✍️ **Edit Manual**: Terkadang, Anda mungkin masih perlu melakukan penyesuaian atau edit manual pada file hasil generate (misalnya merapikan spasi, paragraf, *ya da yada lainnya*).
+* 🔧 **As-Is**: Tool ini bersifat "as-is" (apa adanya) dan tidak ada jaminan tanpa error. *May or may not work* good luck might save you lot of time or not.
+* ✍️ **Edit Manual**: Terkadang, kalian mungkin masih perlu melakukan penyesuaian atau edit manual pada file hasil generate (misalnya merapikan spasi, paragraf, *yada yada lainnya*).
 
 ## Tentang Proyek Ini
 
